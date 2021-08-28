@@ -1,10 +1,6 @@
 /*
-6/25/2021 ActuatorOne Rev2 by Tim "@burnermaster" Tagman for
-pneumatic ignition actuator live marketing demo model constructed by 
-Richard Gardner and Tim Tagman
-Constructed for Fireye, Inc. Derry New Hampshire USA
-Fireye, Inc.
-A Carrier Company
+6/25/2021 AirForceOneV2 by Tim "@burnermaster" Tagman for
+pneumatic ignition actuator
 */
 
 #include "Arduino.h"
